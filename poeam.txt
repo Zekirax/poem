@@ -1,5 +1,6 @@
-bleu et la bouffe
+bleu, animal et la bouffe
 rouge
 orange
 noir
 banane
+tigre
